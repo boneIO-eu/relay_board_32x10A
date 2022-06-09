@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "Relay-user")(type "Legacy")(uri "${KIPRJMOD}/library/Relay-user.lib")(options "")(descr ""))
+)

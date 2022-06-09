@@ -1,0 +1,7 @@
+(fp_lib_table
+  (lib (name "boneIO_LOGO")(type "KiCad")(uri "${KIPRJMOD}/Library/")(options "")(descr ""))
+  (lib (name "ph80ds-21")(type "KiCad")(uri "${KIPRJMOD}/Library/")(options "")(descr ""))
+  (lib (name "sth20")(type "KiCad")(uri "${KIPRJMOD}/3d_Model/sth20")(options "")(descr ""))
+  (lib (name "KiCad")(type "KiCad")(uri "C:/Users/Kamil/OneDrive/Dokumenty/KiCad/Biblioteka/HF32F_005-ZS3/KiCad")(options "")(descr ""))
+  (lib (name "relay-user")(type "KiCad")(uri "${KIPRJMOD}/library/relay-user.pretty")(options "")(descr ""))
+)
