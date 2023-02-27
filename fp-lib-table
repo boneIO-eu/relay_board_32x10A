@@ -6,4 +6,5 @@
   (lib (name "relay-user")(type "KiCad")(uri "${KIPRJMOD}/library/relay-user.pretty")(options "")(descr ""))
   (lib (name "3D_model")(type "KiCad")(uri "${KIPRJMOD}/library/3D_model")(options "")(descr ""))
   (lib (name "Desktop")(type "KiCad")(uri "C:/Users/Kamil/OneDrive/Desktop")(options "")(descr ""))
+  (lib (name "HF49FD_005-1H12T (1)")(type "KiCad")(uri "${KIPRJMOD}/library/HF49FD_005-1H12T (1)")(options "")(descr ""))
 )
